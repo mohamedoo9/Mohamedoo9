@@ -1,0 +1,6 @@
+name: opsrer
+author: Mohamedoo9
+api: 3.0.0-ALPHA12
+version: 1.4
+main: ops\Main
+description: Test !
