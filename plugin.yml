@@ -4,3 +4,7 @@ api: 3.0.0-ALPHA12
 version: 1.4
 main: ops\Main
 description: Test !
+
+commands:
+ oo:
+  description: just a test
