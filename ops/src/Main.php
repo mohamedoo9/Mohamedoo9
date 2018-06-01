@@ -19,6 +19,8 @@ class Main extends PluginBase{
          case 'oo':
             if($sender->isOp()){
             $sender->sendMessage(TextFormat::.BLUE."test my plugin");
-     }else{         
+     }else {  
+               $sender->sendMessage(TextFormat::.RED"you don't have permission to use this");
+            }
    }
 }
